@@ -34,7 +34,7 @@ a {
 	font-size: 23px;
 	font-weight: bold;
 	color: white;
-
+	background-image: url("../img/the-flatiron-building.png");
 }
 #copyright {
 	text-align: left;
